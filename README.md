@@ -107,23 +107,7 @@ The displayed register values are generated based on the selected configuration 
 
 ---
 
-## Author
 
-**Harshath Gowda**
-
-Embedded Software Engineer
-
-Experience:
-- Embedded C
-- TI C2000 Microcontrollers
-- SPI
-- I2C
-- UART
-- CAN
-- Motor Driver Development
-- GUI Development using Python
-
----
 
 ## License
 
